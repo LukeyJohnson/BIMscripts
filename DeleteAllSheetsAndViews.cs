@@ -1,3 +1,9 @@
+/*
+ * Revit Macro
+ * Created by: troygates
+ * Created on: 10/10/2013
+ */
+
 public void DeleteAllSheetsAndViews()
 {
 	// setup uidoc and doc for accessing the Revit UI (uidoc) and the Model (doc)
